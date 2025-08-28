@@ -4,7 +4,7 @@ Este diagrama muestra cómo **Vendedor** y **Cliente** heredan de **Persona**, y
 
 ---
 
-## 🟢 Mermaid (ideal para Notion/GitHub)
+## 🟢 Mermaid 
 
 ```mermaid
 classDiagram
